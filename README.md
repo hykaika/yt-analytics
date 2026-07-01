@@ -1,7 +1,7 @@
 <div align="center">
 
 # YT Analytics
-### Channel Intelligence — by hykaika
+### Channel Intelligence  by hykaika
 
 *A desktop app that lets you deeply analyze any YouTube channel in seconds.*
 
@@ -128,7 +128,7 @@ The top section shows a live space HUD with **20 data nodes** arranged across 3 
 
 ## How to get started
 
-### Step 1 — Get a free YouTube API Key
+### Step 1  Get a free YouTube API Key
 
 You need one before you can search anything. It's free and takes about 2 minutes.
 
@@ -166,7 +166,7 @@ Type a channel handle like `@mkbhd` or a channel name into the search bar and pr
 
 ## Installation
 
-### Installer — recommended
+### Installer  recommended
 Download `YT Analytics Setup 1.0.0.exe`, run it, and it creates Desktop + Start Menu shortcuts automatically.
 
 
