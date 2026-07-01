@@ -166,19 +166,9 @@ Type a channel handle like `@mkbhd` or a channel name into the search bar and pr
 
 ## Installation
 
-### Portable — no install needed
-Download `YT Analytics 1.0.0.exe` from Releases, double-click, done. Nothing gets installed. You can run it from any folder or USB drive.
-
 ### Installer — recommended
 Download `YT Analytics Setup 1.0.0.exe`, run it, and it creates Desktop + Start Menu shortcuts automatically.
 
-### Run from source
-```bash
-git clone https://github.com/hykaika/yt-analytics.git
-cd yt-analytics
-npm install
-npm start
-```
 
 Requires [Node.js](https://nodejs.org) v18+.
 
